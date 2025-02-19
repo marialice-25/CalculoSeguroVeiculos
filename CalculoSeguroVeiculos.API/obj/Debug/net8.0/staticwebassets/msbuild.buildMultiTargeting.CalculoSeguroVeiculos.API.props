@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CalculoSeguroVeiculos.API.props" />
+</Project>

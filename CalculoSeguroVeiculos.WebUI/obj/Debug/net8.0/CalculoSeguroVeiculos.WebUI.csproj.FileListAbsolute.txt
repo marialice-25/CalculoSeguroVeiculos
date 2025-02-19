@@ -1,0 +1,8 @@
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.csproj.AssemblyReference.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.AssemblyInfoInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.AssemblyInfo.cs
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.RazorAssemblyInfo.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.WebUI\obj\Debug\net8.0\CalculoSeguroVeiculos.WebUI.RazorAssemblyInfo.cs

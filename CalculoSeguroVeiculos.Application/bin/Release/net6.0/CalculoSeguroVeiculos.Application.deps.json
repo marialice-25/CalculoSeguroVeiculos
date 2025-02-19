@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CalculoSeguroVeiculos.Application/1.0.0": {
+        "dependencies": {
+          "CalculoSeguroVeiculos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CalculoSeguroVeiculos.Application.dll": {}
+        }
+      },
+      "CalculoSeguroVeiculos.Domain/1.0.0": {
+        "runtime": {
+          "CalculoSeguroVeiculos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CalculoSeguroVeiculos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculoSeguroVeiculos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

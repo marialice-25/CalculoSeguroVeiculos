@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|solutionrelative:calculoseguroveiculos.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.infrastructure\\repositories\\segurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|solutionrelative:calculoseguroveiculos.infrastructure\\repositories\\segurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B4EEB5-009D-4F6F-B7B1-A617DCBCF997}|CalculoSeguroVeiculos.Domain\\CalculoSeguroVeiculos.Domain.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.domain\\interfaces\\isegurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B4EEB5-009D-4F6F-B7B1-A617DCBCF997}|CalculoSeguroVeiculos.Domain\\CalculoSeguroVeiculos.Domain.csproj|solutionrelative:calculoseguroveiculos.domain\\interfaces\\isegurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.application\\services\\seguroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|solutionrelative:calculoseguroveiculos.application\\services\\seguroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|solutionrelative:calculoseguroveiculos.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|solutionrelative:calculoseguroveiculos.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE8AEC9-81F3-43E8-BE60-0467B5971463}|CalculoSeguroVeiculos.Tests\\CalculoSeguroVeiculos.Tests.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.tests\\calculostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE8AEC9-81F3-43E8-BE60-0467B5971463}|CalculoSeguroVeiculos.Tests\\CalculoSeguroVeiculos.Tests.csproj|solutionrelative:calculoseguroveiculos.tests\\calculostests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\models\\seguromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\models\\seguromodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\seguro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\seguro\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.api\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|solutionrelative:calculoseguroveiculos.api\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.application\\interfaces\\iseguroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|solutionrelative:calculoseguroveiculos.application\\interfaces\\iseguroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.api\\calculoseguroveiculos.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|solutionrelative:calculoseguroveiculos.api\\calculoseguroveiculos.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\models\\seguradomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\models\\seguradomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\models\\veiculomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\models\\veiculomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B4EEB5-009D-4F6F-B7B1-A617DCBCF997}|CalculoSeguroVeiculos.Domain\\CalculoSeguroVeiculos.Domain.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.domain\\entities\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B4EEB5-009D-4F6F-B7B1-A617DCBCF997}|CalculoSeguroVeiculos.Domain\\CalculoSeguroVeiculos.Domain.csproj|solutionrelative:calculoseguroveiculos.domain\\entities\\seguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.application\\dtos\\segurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB97CB2-3172-4D6D-880E-2E9E5255EBC7}|CalculoSeguroVeiculos.Application\\CalculoSeguroVeiculos.Application.csproj|solutionrelative:calculoseguroveiculos.application\\dtos\\segurodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.api\\calculoseguroveiculos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B5D85A3-B5F2-4C2D-8A20-876A5AE61F61}|CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj|solutionrelative:calculoseguroveiculos.api\\calculoseguroveiculos.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.infrastructure\\calculoseguroveiculos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9D1B3FEA-1C5E-4A7F-87A8-B740D30C7F61}|CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj|solutionrelative:calculoseguroveiculos.infrastructure\\calculoseguroveiculos.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\seguro\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\seguro\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\views\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\views\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|c:\\users\\m.alice\\onedrive - reply\\documentos\\zurich_teste_dotnet\\calculoseguroveiculos\\calculoseguroveiculos.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ACDB22D-E7EC-4C8E-AD89-8D310708E26F}|CalculoSeguroVeiculos.WebUI\\CalculoSeguroVeiculos.WebUI.csproj|solutionrelative:calculoseguroveiculos.webui\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeguroService.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\Services\\SeguroService.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Application\\Services\\SeguroService.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\Services\\SeguroService.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Application\\Services\\SeguroService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:54:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISeguroService.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\Interfaces\\ISeguroService.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Application\\Interfaces\\ISeguroService.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\Interfaces\\ISeguroService.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Application\\Interfaces\\ISeguroService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwA4AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:56:47.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Program.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:37:34.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISeguroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Domain\\Interfaces\\ISeguroRepository.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Domain\\Interfaces\\ISeguroRepository.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Domain\\Interfaces\\ISeguroRepository.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Domain\\Interfaces\\ISeguroRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:45:16.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeguroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\Repositories\\SeguroRepository.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Infrastructure\\Repositories\\SeguroRepository.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\Repositories\\SeguroRepository.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Infrastructure\\Repositories\\SeguroRepository.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:30:36.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAlwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:25:40.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeguroController.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Controllers\\SeguroController.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Controllers\\SeguroController.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Controllers\\SeguroController.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Controllers\\SeguroController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T23:38:48.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeguroController.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\Controllers\\SeguroController.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.API\\Controllers\\SeguroController.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\Controllers\\SeguroController.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.API\\Controllers\\SeguroController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:01:39.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\Program.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.API\\Program.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\Program.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.API\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:45:15.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\appsettings.json",
+              "RelativeToolTip": "CalculoSeguroVeiculos.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T10:49:45.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalculosTests.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Tests\\CalculosTests.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Tests\\CalculosTests.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Tests\\CalculosTests.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Tests\\CalculosTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T12:37:05.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeguroModel.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\SeguroModel.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Models\\SeguroModel.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\SeguroModel.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Models\\SeguroModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T23:59:55.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml",
+              "ViewState": "AQIAALoAAAAAAAAAAAAAAMQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T23:43:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CalculoSeguroVeiculos.API.http",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.http",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.http",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.http",
+              "RelativeToolTip": "CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-19T11:35:49.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T11:44:59.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Seguro.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Domain\\Entities\\Seguro.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Domain\\Entities\\Seguro.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Domain\\Entities\\Seguro.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Domain\\Entities\\Seguro.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAawBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:04:17.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VeiculoModel.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\VeiculoModel.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Models\\VeiculoModel.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\VeiculoModel.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Models\\VeiculoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:02:21.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SeguradoModel.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\SeguradoModel.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Models\\SeguradoModel.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Models\\SeguradoModel.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Models\\SeguradoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:02:57.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SeguroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\DTOs\\SeguroDTO.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Application\\DTOs\\SeguroDTO.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Application\\DTOs\\SeguroDTO.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Application\\DTOs\\SeguroDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:06:04.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAIBpwDIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:34:28.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T12:13:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\appsettings.json",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T23:41:34.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CalculoSeguroVeiculos.API.csproj",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj",
+              "RelativeToolTip": "CalculoSeguroVeiculos.API\\CalculoSeguroVeiculos.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T11:20:17.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CalculoSeguroVeiculos.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj",
+              "RelativeToolTip": "CalculoSeguroVeiculos.Infrastructure\\CalculoSeguroVeiculos.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T11:20:11.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Error.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:22:23.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Seguro\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:22:42.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml.cs",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml.cs",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\Privacy.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T00:23:02.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T00:23:13.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CalculoSeguroVeiculos.WebUI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\m.alice\\OneDrive - Reply\\Documentos\\Zurich_Teste_DotNet\\CalculoSeguroVeiculos\\CalculoSeguroVeiculos.WebUI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CalculoSeguroVeiculos.WebUI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T00:04:22.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

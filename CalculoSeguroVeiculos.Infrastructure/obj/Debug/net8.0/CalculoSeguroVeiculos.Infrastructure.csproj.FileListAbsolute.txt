@@ -1,0 +1,5 @@
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net8.0\CalculoSeguroVeiculos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net8.0\CalculoSeguroVeiculos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net8.0\CalculoSeguroVeiculos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net8.0\CalculoSeguroVeiculos.Infrastructure.AssemblyInfo.cs
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net8.0\CalculoSeguroVeiculos.Infrastructure.csproj.CoreCompileInputs.cache

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CalculoSeguroVeiculos.WebUI.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.AssemblyInfo.cs
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.deps.json
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Application.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Domain.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Application.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\bin\Debug\net6.0\CalculoSeguroVeiculos.Domain.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoS.35F2E92B.Up2Date
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\refint\CalculoSeguroVeiculos.Infrastructure.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\CalculoSeguroVeiculos.Infrastructure.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Infrastructure\obj\Debug\net6.0\ref\CalculoSeguroVeiculos.Infrastructure.dll

@@ -1,0 +1,234 @@
+﻿@model Models.SeguroModel
+
+@{
+    ViewData["Title"] = "Cálculo de Seguro";
+}
+
+<style>
+    /* Fundo azul claro para um visual limpo e profissional */
+    body {
+        background-color: #f4f8fb; /* Azul bem claro */
+        color: #0a1f44; /* Azul escuro */
+        font-family: 'Arial', sans-serif;
+    }
+
+    /* Container principal para alinhar os containers lado a lado */
+    .container-main {
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+        margin-top: 20px;
+    }
+
+    /* Container do formulário */
+    .container-form {
+        max-width: 500px;
+        background: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    h2 {
+        text-align: center;
+        color: #0a74da; /* Azul vibrante */
+        margin-bottom: 20px;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+    }
+
+        .form-group label {
+            font-weight: bold;
+            color: #0a1f44;
+        }
+
+    .form-control {
+        border-radius: 5px;
+        border: 1px solid #0a74da;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    .btn-primary {
+        background-color: #0a74da;
+        border-color: #0a74da;
+        width: 100%;
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 5px;
+        transition: background 0.3s ease-in-out;
+    }
+
+        .btn-primary:hover {
+            background-color: #085cb5;
+        }
+
+    /* Estilo da média */
+    .media-seguro {
+        text-align: center;
+        margin-top: 20px;
+        font-size: 18px;
+        color: #085cb5;
+        font-weight: bold;
+    }
+
+    /* Container do relatório */
+    .container-relatorio {
+        max-width: 500px;
+        background: #ffffff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .relatorio {
+        margin-top: 20px;
+    }
+
+        .relatorio h3 {
+            color: #0a74da;
+            margin-bottom: 15px;
+        }
+
+        .relatorio p {
+            font-size: 16px;
+            color: #0a1f44;
+        }
+
+    /* Estilo da tabela */
+    .table-container {
+        margin-top: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        background: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    th, td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+
+    th {
+        background-color: #0a74da;
+        color: white;
+        font-weight: bold;
+    }
+
+    td {
+        color: #0a1f44;
+    }
+
+    /* Estilo do formulário de pesquisa */
+    .search-form {
+        display: flex;
+        justify-content: flex-end;
+        margin-bottom: 15px;
+    }
+
+        .search-form .form-control {
+            width: auto;
+            margin-right: 10px;
+        }
+
+        .search-form .btn-primary {
+            width: auto;
+        }
+</style>
+
+<div class="container-main">
+    <div class="container-form">
+        <h2>Cálculo de Seguro de Veículo</h2>
+
+        <form asp-action="CalcularSeguro" method="post">
+            <div class="form-group">
+                <label>Valor do Veículo</label>
+                <input type="number" asp-for="ValorVeiculo" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label>Marca/Modelo</label>
+                <input type="text" asp-for="MarcaModelo" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label>Nome do Segurado</label>
+                <input type="text" asp-for="NomeSegurado" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label>CPF</label>
+                <input type="text" asp-for="CPF" class="form-control" required />
+            </div>
+            <div class="form-group">
+                <label>Idade</label>
+                <input type="number" asp-for="Idade" class="form-control" required />
+            </div>
+            <button type="submit" class="btn btn-primary mt-3">Calcular Seguro</button>
+        </form>
+    </div>
+
+    @if (Model.ValorSeguro.HasValue)
+    {
+        <div class="container-relatorio">
+            <h2>Relatório do Seguro</h2>
+            <div class="relatorio">
+                <h3>Dados do Seguro</h3>
+                <p><strong>Valor do Veículo:</strong> R$ @Model.ValorVeiculo.ToString()</p>
+                <p><strong>Taxa de Risco:</strong> @Model.TaxaRisco.ToString() % </p>
+                <p><strong>Prêmio de Risco:</strong> R$ @Model.PremioRisco.ToString()</p>
+                <p><strong>Prêmio Puro:</strong> R$ @Model.PremioPuro.ToString()</p>
+                <p><strong>Prêmio Comercial:</strong> R$ @Model.PremioComercial.ToString()</p>
+                <p><strong>Valor do Seguro:</strong> R$ @Model.ValorSeguro.ToString()</p>
+            </div>
+        </div>
+    }
+</div>
+
+@if (Model.Seguros != null && Model.Seguros.Any())
+{
+    <div class="table-container">
+        <h2>Todos os Seguros</h2>
+        <form asp-action="PesquisarSeguro" method="get" class="search-form">
+            <input type="text" name="searchTerm" class="form-control" placeholder="Pesquisar por seguro" />
+            <button type="submit" class="btn btn-primary">Pesquisar</button>
+        </form>
+        <table>
+            <thead>
+                <tr>
+                    <th>Valor do Veículo</th>
+                    <th>Marca/Modelo</th>
+                    <th>Nome do Segurado</th>
+                    <th>CPF</th>
+                    <th>Idade</th>
+                    <th>Valor do Seguro</th>
+                    <th>Taxa de Risco</th>
+                    <th>Prêmio de Risco</th>
+                    <th>Prêmio Puro</th>
+                    <th>Prêmio Comercial</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var seguro in Model.Seguros)
+                {
+                    <tr>
+                        <td>R$ @seguro.Veiculo.Valor.ToString()</td>
+                        <td>@seguro.Veiculo.MarcaModelo</td>
+                        <td>@seguro.Segurado.Nome</td>
+                        <td>@seguro.Segurado.CPF</td>
+                        <td>@seguro.Segurado.Idade</td>
+                        <td>R$ @seguro.ValorSeguro.ToString()</td>
+                        <td>@seguro.TaxaRisco.ToString() % </td>
+                        <td>R$ @seguro.PremioRisco.ToString()</td>
+                        <td>R$ @seguro.PremioPuro.ToString()</td>
+                        <td>R$ @seguro.PremioComercial.ToString()</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}

@@ -1,0 +1,15 @@
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.AssemblyInfoInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.AssemblyInfo.cs
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.csproj.CoreCompileInputs.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\bin\Debug\net6.0\CalculoSeguroVeiculos.Application.deps.json
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\bin\Debug\net6.0\CalculoSeguroVeiculos.Application.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\bin\Debug\net6.0\CalculoSeguroVeiculos.Application.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\bin\Debug\net6.0\CalculoSeguroVeiculos.Domain.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\bin\Debug\net6.0\CalculoSeguroVeiculos.Domain.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.csproj.AssemblyReference.cache
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoS.3DC845B1.Up2Date
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\refint\CalculoSeguroVeiculos.Application.dll
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\CalculoSeguroVeiculos.Application.pdb
+C:\Users\m.alice\OneDrive - Reply\Documentos\Zurich_Teste_DotNet\CalculoSeguroVeiculos\CalculoSeguroVeiculos.Application\obj\Debug\net6.0\ref\CalculoSeguroVeiculos.Application.dll
